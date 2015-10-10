@@ -1,5 +1,6 @@
 ﻿create database QuanLyNhanVien
 go
+--go quan ly nhan vien
 use QuanLyNhanVien
 /*-----------------------------------------
 	Tao Bang: Tao Cha Truoc con sau
