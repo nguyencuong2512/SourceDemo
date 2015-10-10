@@ -1,0 +1,5 @@
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\APP\bin\Debug\APP.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\APP\bin\Debug\APP.pdb
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\APP\obj\Debug\APP.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\APP\obj\Debug\APP.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\APP\obj\Debug\APP.pdb

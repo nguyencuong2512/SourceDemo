@@ -1,0 +1,9 @@
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\DAO\bin\Debug\DAO.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\DAO\bin\Debug\DAO.pdb
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\DAO\bin\Debug\APP.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\DAO\bin\Debug\DTO.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\DAO\bin\Debug\APP.pdb
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\DAO\bin\Debug\DTO.pdb
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\DAO\obj\Debug\DAO.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\DAO\obj\Debug\DAO.pdb

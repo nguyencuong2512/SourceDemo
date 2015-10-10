@@ -1,0 +1,11 @@
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\bin\Debug\BUS.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\bin\Debug\DAO.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\bin\Debug\DTO.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\bin\Debug\APP.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\bin\Debug\DAO.pdb
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\bin\Debug\DTO.pdb
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\bin\Debug\APP.pdb
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\obj\Debug\BUS.dll
+C:\Users\Nguyen Cuong\Documents\ChyenDeNet\QuanLyNhanVien\BUS\obj\Debug\BUS.pdb
