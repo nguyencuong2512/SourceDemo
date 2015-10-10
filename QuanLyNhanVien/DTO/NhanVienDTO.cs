@@ -8,6 +8,7 @@ namespace DTO
 {
     public class NhanVienDTO
     {
+        //Sting maso
         string maSo;
 
         public string MaSo
